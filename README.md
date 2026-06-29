@@ -20,18 +20,7 @@
 
 ## 🙋‍♂️ About Me
 
-```javascript
-const harish = {
-  name:       "Devarakonda Harish",
-  location:   "Hyderabad, India 🇮🇳",
-  education:  "CVR College of Engineering",
-  role:       "Frontend Developer (Student)",
-  focus:      ["HTML", "CSS", "JavaScript"],
-  learning:   ["Node.js", "Django", "Backend Development"],
-  goal:       "Crafting beautiful, fast, and accessible web experiences",
-  available:  true // Open to opportunities!
-};
-```
+
 
 > 💡 *I'm a passionate frontend developer from Hyderabad, currently studying at CVR College of Engineering. I love turning ideas into real, interactive web experiences using clean code and creative design. Currently expanding my skillset into backend development!*
 
